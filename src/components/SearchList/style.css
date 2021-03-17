@@ -1,0 +1,10 @@
+.list-container {
+  width: 99%;
+  background: white;
+  padding-left: 10px !important;
+  text-align: left;
+}
+
+.highlight {
+  background-color: lightgoldenrodyellow;
+}

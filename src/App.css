@@ -1,0 +1,11 @@
+.ant-layout-content {
+  min-height: calc(100vh - 134px) !important
+}
+
+.page {
+  height: 100%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  padding-top: 10%;
+}
